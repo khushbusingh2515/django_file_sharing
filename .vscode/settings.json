@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "MLTable": "yaml",
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/**/*": "django-txt",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements",
+        "*.html": "django-html",
+        "*.json": "json",
+        "plyconfig.json": "jsonc"
+    }
+}
